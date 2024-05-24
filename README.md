@@ -1,4 +1,6 @@
 ## olá meu nome e Gabriel Oliveira 
+
+![snake gif](https://github.com/Gabrielryu1/Gabrielryu1/blob/output/github-contribution-grid-snake.gif)
 - 🔭 Atualmente não estou trabalhando , mas estou focado para entrar na área
 - 🌱 Estou estudando Desenvolvimento web
 -  <div>
