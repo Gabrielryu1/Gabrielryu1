@@ -1,27 +1,7 @@
 ## olá meu nome e Gabriel Oliveira 
 
 ![snake gif](https://github.com/Gabrielryu1/Gabrielryu1/blob/output/github-contribution-grid-snake.gif)
-🚀 Aspirante a Desenvolvedor e Amante de Jogos 🎮
 
-Estou apenas começando minha jornada no mundo da programação e dos jogos, mas minha paixão por tecnologia e criação digital é enorme! Aqui no GitHub, você encontrará os primeiros passos dessa aventura, com projetos iniciais, experimentos e colaborações.
-
-💻 Programação
-
-Linguagens: Estou atualmente aprendendo Python e JavaScript. Gosto de explorar e entender como diferentes linguagens funcionam.
-Projetos: Tenho alguns projetos básicos que mostram meu progresso e minha dedicação ao aprendizado. Estou sempre buscando melhorar e aprender algo novo.
-Frameworks: Experimentei um pouco de Django e React, mas estou apenas arranhando a superfície.
-🎮 Jogos
-
-Desenvolvimento de Jogos: Estou começando a aprender Unity e Godot. Criar meus próprios jogos indie é um dos meus grandes sonhos.
-🌱 Aprendizado Contínuo
-
-Estou constantemente aprendendo e me desafiando a entender novos conceitos e tecnologias. Recentemente, comecei a explorar HTML e CSS para desenvolvimento web.
-Sigo tutoriais online, faço cursos e leio livros sobre programação e design de jogos para expandir meu conhecimento.
-🌐 Comunidade
-
-Eventos e Meetups: Gosto de participar de eventos de tecnologia e jogos para conhecer novas pessoas e aprender com a comunidade.
-Open Source: Comecei a contribuir para pequenos projetos de código aberto. Acredito que colaborar é uma ótima maneira de aprender e crescer.
-Estou ansioso para compartilhar minha jornada com você e aprender com a comunidade. Vamos construir algo incrível juntos! 🚀
 -  <div>
   <a href="https://github.com/Gabrielryu1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielryu1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -43,3 +23,25 @@ Estou ansioso para compartilhar minha jornada com você e aprender com a comunid
  
 </div>
 
+
+🚀 Aspirante a Desenvolvedor e Amante de Jogos 🎮
+
+Estou apenas começando minha jornada no mundo da programação e dos jogos, mas minha paixão por tecnologia e criação digital é enorme! Aqui no GitHub, você encontrará os primeiros passos dessa aventura, com projetos iniciais, experimentos e colaborações.
+
+💻 Programação
+
+Linguagens: Estou atualmente aprendendo Python e JavaScript. Gosto de explorar e entender como diferentes linguagens funcionam.
+Projetos: Tenho alguns projetos básicos que mostram meu progresso e minha dedicação ao aprendizado. Estou sempre buscando melhorar e aprender algo novo.
+Frameworks: Experimentei um pouco de Django e React, mas estou apenas arranhando a superfície.
+🎮 Jogos
+
+Desenvolvimento de Jogos: Estou começando a aprender Unity e Godot. Criar meus próprios jogos indie é um dos meus grandes sonhos.
+🌱 Aprendizado Contínuo
+
+Estou constantemente aprendendo e me desafiando a entender novos conceitos e tecnologias. Recentemente, comecei a explorar HTML e CSS para desenvolvimento web.
+Sigo tutoriais online, faço cursos e leio livros sobre programação e design de jogos para expandir meu conhecimento.
+🌐 Comunidade
+
+Eventos e Meetups: Gosto de participar de eventos de tecnologia e jogos para conhecer novas pessoas e aprender com a comunidade.
+Open Source: Comecei a contribuir para pequenos projetos de código aberto. Acredito que colaborar é uma ótima maneira de aprender e crescer.
+Estou ansioso para compartilhar minha jornada com você e aprender com a comunidade. Vamos construir algo incrível juntos! 🚀
